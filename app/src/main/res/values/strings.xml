@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Ejemplo Camara Basico</string>
+    <string name="imageview1">Fotografia tomada</string>
+    <string name="icono_camara">icono camara</string>
+    <string name="repositorio">https://github.com/JoelCautiRojas/Ejemplo_Camara_Basico_MAY2018.git</string>
+
+    <!-- Firma -->
+    <string name="firma_autor">Joel Ruben Cauti Rojas</string>
+    <string name="firma_pais">LIMA - PERÚ</string>
+    <string name="firma_telefono_autor">+051 – 963 315 470</string>
+    <string name="firma_ejercicio_titulo">Ejercicio Camara Basico</string>
+    <string name="firma_web">http://www.programadoresperuanos.com</string>
+    <string name="firma_titulo">PROGRAMADORES PERUANOS</string>
+    <string name="firma_descripcion_logo">Imagen miniatura del logo Club del Caos</string>
+
+    <!-- Imagenes -->
+    <string name="icono1">Icono de Android</string>
+
+    <!-- Menu -->
+    <string name="opcion1_menu1">Inicio</string>
+    <string name="opcion2_menu1">Acerca de Nosotros</string>
+    <string name="icono_clubdc">Icono de Club del Caos</string>
+    <string name="parrafo1">Ejemplo de uso basico de la camara, captura de imagenes, guardar archivo en la memoria externa y mostrar en ImageView</string>
+</resources>

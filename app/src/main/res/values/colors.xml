@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- Colores Club del caos-->
+    <color name="colorClubdelcaos">#f6d21c</color>
+    <color name="colorClubdelcaosShadow">#ecc70f</color>
+    <color name="colorEnlaceRepositorio">#2f8ff5</color>
+</resources>
