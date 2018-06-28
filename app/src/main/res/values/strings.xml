@@ -1,24 +1,33 @@
 <resources>
-    <string name="app_name">Ejemplo Camara Basico</string>
+    <string name="app_name">Ejemplo Cámara Básico</string>
     <string name="imageview1">Fotografia tomada</string>
-    <string name="icono_camara">icono camara</string>
-    <string name="repositorio">https://github.com/JoelCautiRojas/Ejemplo_Camara_Basico_MAY2018.git</string>
+    <string name="descripcion_iconoCamara">icono camara</string>
 
     <!-- Firma -->
-    <string name="firma_autor">Joel Ruben Cauti Rojas</string>
-    <string name="firma_pais">LIMA - PERÚ</string>
-    <string name="firma_telefono_autor">+051 – 963 315 470</string>
-    <string name="firma_ejercicio_titulo">Ejercicio Camara Basico</string>
-    <string name="firma_web">http://www.programadoresperuanos.com</string>
+    <string name="firma_repositorio">https://github.com/JoelCautiRojas/EjemploAndroid_MAY2018_Camara_basico.git</string>
+    <string name="firma_autorName">Joel Ruben Cauti Rojas</string>
+    <string name="firma_autorPais">LIMA - PERÚ</string>
+    <string name="firma_autorPhone">+051 – 963 315 470</string>
+    <string name="firma_ejercicioTitulo">Ejercicio Cámara Básico</string>
+    <string name="firma_enlaceWeb">http://www.programadoresperuanos.com</string>
     <string name="firma_titulo">PROGRAMADORES PERUANOS</string>
-    <string name="firma_descripcion_logo">Imagen miniatura del logo Club del Caos</string>
+    <string name="firma_logoDescripcion">Imagen miniatura del logo Club del Caos</string>
+    <string name="firma_autorEnlace">https://www.facebook.com/joelcauti</string>
+    <string name="firma_parrafo1">El repositorio de este ejercicio lo puedes encontrar en:</string>
+    <string name="firma_parrafo2">Ejercicio desarrollado por:</string>
 
     <!-- Imagenes -->
     <string name="icono1">Icono de Android</string>
+    <string name="icono_clubdc">Icono de Club del Caos</string>
 
     <!-- Menu -->
-    <string name="opcion1_menu1">Inicio</string>
-    <string name="opcion2_menu1">Acerca de Nosotros</string>
-    <string name="icono_clubdc">Icono de Club del Caos</string>
+    <string name="opcion1_menu1">Indice</string>
+    <string name="opcion2_menu1">Camara</string>
+    <string name="opcion3_menu1">Acerca de Nosotros</string>
+
     <string name="parrafo1">Ejemplo de uso basico de la camara, captura de imagenes, guardar archivo en la memoria externa y mostrar en ImageView</string>
+    <string name="indice_parrafo1">La apliacion solicita los permisos de sistema para la utilizacion de la CAMARA y para el ALMACENAMIENTO EN LA MEMORIA EXTERNA.</string>
+    <string name="indice_titulo">Indicaciones:</string>
+    <string name="indice_parrafo2">Dando click al icono de camara se puede capturar una fotografia, esta captura sera mostrada en una miniatura.</string>
+
 </resources>

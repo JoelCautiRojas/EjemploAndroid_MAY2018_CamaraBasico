@@ -8,4 +8,60 @@
     <color name="colorClubdelcaos">#f6d21c</color>
     <color name="colorClubdelcaosShadow">#ecc70f</color>
     <color name="colorEnlaceRepositorio">#2f8ff5</color>
+
+    <!-- Colores Programadores Peruanos -->
+    <color name="colorProgramadoresPeruanosPrimary">#14ba87</color>
+    <color name="colorProgramadoresPeruanosPrimaryDark">#10b482</color>
+    <color name="colorProgramadoresPeruanosAccent">#433d3d</color>
+    <color name="colorEnlacesURL">#3c8fe9</color>
+    
+    <!-- Colores Seleccionados -->
+    <color name="colorverdesoft">#b8e8c7</color>
+    <color name="colorverdehighlight">#14ba87</color>
+    <color name="colorverde">#14a075</color>
+    <color name="colorverdedark">#108762</color>
+
+    <color name="colorverdevuesoft">#65dace</color>
+    <color name="colorverdevuehighlight">#19b8ab</color>
+    <color name="colorverdevue">#01a396</color>
+    <color name="colorverdevuedark">#077e81</color>
+
+    <color name="colorzulsoft">#78beff</color>
+    <color name="colorzulhighlight">#50a6f6</color>
+    <color name="colorzul">#2c8efe</color>
+    <color name="colorzuldark">#1974e5</color>
+
+    <color name="colorzulvuesoft">#4c85c5</color>
+    <color name="colorzulvuehighlight">#216ec5</color>
+    <color name="colorzulvue">#0056b7</color>
+    <color name="colorzulvuedark">#03438b</color>
+
+    <color name="coloralertainfo">#359bf2</color>
+
+    <color name="colorgoldsoft">#feeb9b</color>
+    <color name="colorgoldhighlight">#fedb50</color>
+    <color name="colorgold">#f2c81d</color>
+    <color name="colorgolddark">#d6ac00</color>
+
+    <color name="colorgoldvuesoft">#ffd279</color>
+    <color name="colorgoldvuehighlight">#ffbf42</color>
+    <color name="colorgoldvue">#eca417</color>
+    <color name="colorgoldvuedark">#d79109</color>
+
+    <color name="colorgoldyellow">#fff131</color>
+
+    <color name="colorgoldclubdelcaos">#f6d21c</color>
+    <color name="colorgoldorange">#ffc107</color>
+    <color name="coloralertawarning">#f8b81e</color>
+
+    <color name="colorrojosoft">#ff8d79</color>
+    <color name="colorrojohighlight">#f8583c</color>
+    <color name="colorrojo">#ed3b1c</color>
+    <color name="colorrojodark">#d02507</color>
+
+    <color name="colorrojovuesoft">#ff8c9f</color>
+    <color name="colorrojovuehighlight">#fe4160</color>
+    <color name="colorrojovue">#e72645</color>
+    <color name="colorrojovuedark">#c3223c</color>
+
 </resources>
