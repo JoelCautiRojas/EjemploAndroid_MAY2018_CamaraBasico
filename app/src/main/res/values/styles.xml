@@ -8,13 +8,6 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
-    <style name="ClubdelCaosTheme" parent="Theme.AppCompat.Light.DarkActionBar">
-        <!-- Customize your theme here. -->
-        <item name="colorPrimary">@color/colorClubdelcaos</item>
-        <item name="colorPrimaryDark">@color/colorClubdelcaosShadow</item>
-        <item name="colorAccent">@color/colorEnlaceRepositorio</item>
-    </style>
-
     <style name="ProgramadoresPeruanosTheme" parent="Theme.AppCompat.Light.DarkActionBar">
         <!-- Customize your theme here. -->
         <item name="colorPrimary">@color/colorProgramadoresPeruanosPrimary</item>

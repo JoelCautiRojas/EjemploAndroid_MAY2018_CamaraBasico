@@ -4,11 +4,6 @@
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
 
-    <!-- Colores Club del caos-->
-    <color name="colorClubdelcaos">#f6d21c</color>
-    <color name="colorClubdelcaosShadow">#ecc70f</color>
-    <color name="colorEnlaceRepositorio">#2f8ff5</color>
-
     <!-- Colores Programadores Peruanos -->
     <color name="colorProgramadoresPeruanosPrimary">#14ba87</color>
     <color name="colorProgramadoresPeruanosPrimaryDark">#10b482</color>
@@ -51,6 +46,7 @@
     <color name="colorgoldyellow">#fff131</color>
 
     <color name="colorgoldclubdelcaos">#f6d21c</color>
+    <color name="colorgoldclubdelcaosdark">#ecc70f</color>
     <color name="colorgoldorange">#ffc107</color>
     <color name="coloralertawarning">#f8b81e</color>
 
