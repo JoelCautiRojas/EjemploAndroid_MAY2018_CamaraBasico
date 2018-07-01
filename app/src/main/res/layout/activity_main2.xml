@@ -31,7 +31,7 @@
                 android:gravity="center"
                 android:layout_marginBottom="20dp"
                 android:layout_height="wrap_content"
-                android:text="@string/parrafo1" />
+                android:text="@string/camara_parrafo1" />
 
             <ImageView
                 android:layout_marginTop="10dp"
@@ -42,7 +42,7 @@
                 android:layout_gravity="center_horizontal"
                 android:layout_marginBottom="20dp"
                 android:background="#636363"
-                android:contentDescription="@string/imageview1" />
+                android:contentDescription="@string/camara_captura" />
 
             <ImageButton
                 android:id="@+id/imageButton"
@@ -51,7 +51,7 @@
                 android:layout_gravity="center_horizontal"
                 android:layout_marginBottom="20dp"
                 android:src="@drawable/ic_camera_alt_black_24dp"
-                android:contentDescription="@string/descripcion_iconoCamara" />
+                android:contentDescription="@string/camara_descripcionIconoCamara" />
 
             <TextView
                 android:id="@+id/textView"

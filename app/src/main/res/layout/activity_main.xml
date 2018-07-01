@@ -62,7 +62,7 @@
                         android:textColor="#5c5c5c"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="En la parte inferior de la pantalla aparece la ruta con la ubicacion del archivo JPG que contiene la imagen capturada." />
+                        android:text="@string/indice_parrafo3" />
 
                 </LinearLayout>
 
