@@ -14,6 +14,7 @@
         android:supportsRtl="true"
         android:theme="@style/ProgramadoresPeruanosTheme">
         <activity
+            android:screenOrientation="portrait"
             android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -22,9 +23,11 @@
             </intent-filter>
         </activity>
         <activity
+            android:screenOrientation="portrait"
             android:label="Camara"
             android:name=".Main2Activity" />
         <activity
+            android:screenOrientation="portrait"
             android:label="Acerca de Nosotros"
             android:name=".Main3Activity" />
     </application>
