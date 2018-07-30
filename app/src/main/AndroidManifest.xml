@@ -30,6 +30,7 @@
             android:screenOrientation="portrait"
             android:label="Acerca de Nosotros"
             android:name=".Main3Activity" />
+
     </application>
 
 </manifest>
