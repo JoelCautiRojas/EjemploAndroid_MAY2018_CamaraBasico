@@ -15,6 +15,15 @@
     <string name="camara_captura">Fotografia tomada</string>
     <string name="camara_descripcionIconoCamara">icono camara</string>
     <string name="camara_parrafo1">Ejemplo de uso basico de la camara, captura de imagenes, guardar archivo en la memoria externa y mostrar en ImageView</string>
+    <string name="camara_titulo1">Ubicacion de la foto tomada:</string>
+    <string name="camara_titulo2">Escalar la imagen obtenida:</string>
+    <string name="camara_titulo3">Formato de imagen obtenida:</string>
+    <string name="camara_titulo4">Compartir imagen con la Galeria</string>
+    <string name="camara_progreso_defecto">100</string>
+    <string name="camara_signo_porcentaje">%</string>
+    <string name="camara_formato_img1">JPEG</string>
+    <string name="camara_formato_img2">PNG</string>
+    <string name="camara_formato_img3">WEBP</string>
 
     <!-- Activity Indice -->
     <string name="indice_titulo">Indicaciones:</string>
@@ -34,5 +43,17 @@
     <string name="firma_autorEnlace">https://www.facebook.com/joelcauti</string>
     <string name="firma_parrafo1">El repositorio de este ejercicio lo puedes encontrar en:</string>
     <string name="firma_parrafo2">Ejercicio desarrollado por:</string>
+
+    <!-- Recursos JAVA -->
+    <string name="recurso_java1">Ubicacion: </string>
+    <string name="recurso_java2">Archivo original:</string>
+    <string name="recurso_java3">No se ah retornado ninguna imagen de la camara.</string>
+    <string name="recurso_java4">Tu dispositivo no cuenta con una camara.</string>
+    <string name="recurso_java5">Necesitas otorgar permisos para acceder a la camara.</string>
+    <string name="recurso_java6">Solicitar</string>
+    <string name="recurso_java7">La camara ya se encuentra lista para iniciar.</string>
+    <string name="recurso_java8">El numero ingresado esta fuera del rango.</string>
+    <string name="recurso_java9">Archivo escalado:</string>
+    <string name="recurso_java10">Dimensiones: </string>
 
 </resources>
